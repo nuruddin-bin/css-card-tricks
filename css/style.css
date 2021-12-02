@@ -23,6 +23,7 @@ a {
     width: 10px;
     height: 10px;
 }
+
 #cards-section::-webkit-scrollbar-thumb {
     background: #201c29;
     border-radius: 10px;
@@ -32,6 +33,7 @@ a {
 #cards-section::-webkit-scrollbar-track {
     background: linear-gradient(90deg,#201c29,#201c29 1px,#17141d 0,#17141d);
 }
+
 
 /* Main Cards Container */
 
@@ -171,6 +173,9 @@ a {
     padding: .2rem .70rem .25rem;
     position: relative;
 }
+
+
+/* Tag Sectin */
 
 .tag a:hover {
     background:#6E3CBC;
